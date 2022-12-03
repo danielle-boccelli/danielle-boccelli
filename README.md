@@ -32,7 +32,6 @@ The less abstract ones:
 # Links
 
 - [twitter](https://twitter.com/danielleboccell)
-- [GitHub](https://github.com/danielle-boccelli)
 - [Medium](https://medium.com/@danielle-boccelli)
 - [Goodreads](https://www.goodreads.com/danielleboccell)
 - [Substack (etcetera)](https://danielleboccelli.substack.com/)
