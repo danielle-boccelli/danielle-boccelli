@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> I am an Information Science PhD student at Drexel University, where I study text via computational methods.
+I am an Information Science PhD student at Drexel University, where I study text via computational methods and computational methods via texts.
 
 # Research Interests
 
