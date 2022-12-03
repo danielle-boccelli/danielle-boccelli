@@ -1,16 +1,39 @@
 ### Hi there 👋
 
-<!--
-**danielle-boccelli/danielle-boccelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am an Information Science PhD student at Drexel University, where I study text via computational methods.
 
-Here are some ideas to get you started:
+# Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The more abstract ones:
+
+- How words convey meaning
+- How technology shapes communication
+- How far intention lies from interpretation
+
+The less abstract ones:
+
+- How text can be well-represented as data for computational analysis
+- How people write about the things about which they write
+- How features of text reflect writer and reach audience
+
+# Education
+
+- Information Science, PhD (~2027); Drexel University
+- Analytics, MS (2016); Georgia Institute of Technology
+- Chemical Engineering, BS (2015); Drexel University
+
+# Previous Titles
+
+- data scientist, senior data scientist, data science manager, data science consultant
+- freelance writer, freelance editor, technical editor, senior technical editor
+- process engineering intern, procurement consulting intern
+- bagger, cashier, hostess
+
+# Links
+
+- [twitter](https://twitter.com/danielleboccell)
+- [GitHub](https://github.com/danielle-boccelli)
+- [Medium](https://medium.com/@danielle-boccelli)
+- [Goodreads](https://www.goodreads.com/danielleboccell)
+- [Substack (etcetera)](https://danielleboccelli.substack.com/)
+- [Everything: A lo-fi blog](https://docs.google.com/document/d/1YMcAJIGOY-Jf4RbQ_W1uLj_KXACkr7CL01t5V_QmRWw/edit?usp=sharing)
