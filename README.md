@@ -35,4 +35,3 @@ The less abstract ones:
 - [Medium](https://medium.com/@danielle-boccelli)
 - [Goodreads](https://www.goodreads.com/danielleboccell)
 - [Substack (etcetera)](https://danielleboccelli.substack.com/)
-- [Everything: A lo-fi blog](https://docs.google.com/document/d/1YMcAJIGOY-Jf4RbQ_W1uLj_KXACkr7CL01t5V_QmRWw/edit?usp=sharing)
