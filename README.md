@@ -22,13 +22,6 @@ The less abstract ones:
 - Analytics, MS (2016); Georgia Institute of Technology
 - Chemical Engineering, BS (2015); Drexel University
 
-# Previous Titles
-
-- data scientist, senior data scientist, data science manager, data science consultant
-- freelance writer, freelance editor, technical editor, senior technical editor
-- process engineering intern, procurement consulting intern
-- bagger, cashier, hostess
-
 # Links
 
 - [twitter](https://twitter.com/danielleboccell)
